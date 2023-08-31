@@ -1,0 +1,243 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background-color: blue;
+    height: 82px;
+    border-bottom: 1px solid white;
+
+}
+
+body {
+    background-color: rgb(235, 232, 232);
+}
+
+#password {
+    float: right;
+    margin-right: 100px;
+    width: 120px;
+    margin-top: 10px;
+    display: inline;
+}
+
+#email {
+    display: inline;
+    float: right;
+    margin-right: 20px;
+    width: 120px;
+    margin-top: 10px;
+}
+
+#p {
+    display: inline;
+    margin-left: 50px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#e {
+    display: inline;
+    margin-left: 605px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#heading {
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    margin-top: -65px;
+    margin-left: 50px;
+}
+
+#btn {
+    display: inline;
+    margin-left: 900px;
+    margin-top: -13px;
+    color: white;
+    background-color: blue;
+    width: 50px;
+    cursor: pointer;
+}
+
+#forget {
+    display: inline;
+    margin-left: 770px;
+    font-size: 15px;
+    margin-top: -15px;
+    color: white;
+}
+
+#heading2 {
+    display: inline;
+    font-family: sans-serif;
+    float: right;
+    margin-top: 30px;
+    margin-right: 70px;
+}
+
+#line {
+    display: inline;
+    float: right;
+    font-family: sans-serif;
+    margin-top: 75px;
+    margin-right: -140px;
+}
+
+#firstname {
+    display: inline;
+    float: right;
+    margin-top: 110px;
+    margin-right: -150px;
+    height: 30px;
+    width: 150px;
+}
+
+#surname {
+    display: inline;
+    float: right;
+    margin-top: 110px;
+    margin-right: -320px;
+    height: 30px;
+    width: 150px;
+}
+
+#email1 {
+    display: inline;
+    float: right;
+    margin-top: 158px;
+    margin-right: -323px;
+    height: 30px;
+    width: 320px;
+
+}
+
+#password1 {
+    display: inline;
+    float: right;
+    margin-top: 208px;
+    margin-right: -323px;
+    height: 30px;
+    width: 320px;
+}
+
+#dob {
+    display: inline;
+    float: right;
+    margin-top: 258px;
+    margin-right: -86px;
+    font-family: sans-serif;
+}
+
+#date {
+    display: inline;
+    float: right;
+    margin-top: 290px;
+    margin-right: -178px;
+}
+
+#gender {
+    display: inline;
+    float: right;
+    margin-top: 328px;
+    margin-right: -58px;
+    font-family: sans-serif;
+}
+
+#radio1 {
+    display: inline;
+    float: right;
+    margin-top: 368px;
+    margin-right: -18px;
+}
+
+#f {
+    display: inline;
+    float: right;
+    margin-top: 365px;
+    margin-right: -70px;
+}
+
+#radio2 {
+    display: inline;
+    float: right;
+    margin-top: 368px;
+    margin-right: -98px;
+}
+
+#m {
+    display: inline;
+    float: right;
+    margin-top: 365px;
+    margin-right: -135px;
+}
+
+#radio3 {
+    display: inline;
+    float: right;
+    margin-top: 368px;
+    margin-right: -163px;
+}
+
+#c {
+    display: inline;
+    float: right;
+    margin-top: 365px;
+    margin-right: -218px;
+}
+
+#para {
+    display: inline;
+    float: right;
+    margin-top: 395px;
+    margin-right: -328px;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#policy1 {
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#policy2 {
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#btn1 {
+    display: inline;
+    float: right;
+    margin-top: 465px;
+    margin-right: -158px;
+    background-color: green;
+    border-color: green;
+    height: 25px;
+    border-radius: 3px;
+    width: 150px;
+    cursor: pointer;
+}
+
+#a {
+    text-decoration: none;
+    color: white;
+}
+
+#heading1 {
+    display: inline;
+    margin-bottom: 100px;
+    font-size: 18px;
+    margin-left: 40px;
+    font-family: sans-serif;
+}
+
+#img {
+    margin-left: 20px;
+    margin-top: 20px;
+}
